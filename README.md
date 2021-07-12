@@ -1,5 +1,4 @@
-# industrial_engineering
-my industrial engineering course
+### my industrial engineering course
 ===
 ANALYSIS AND DESIGN OF INFORMATION SYSTEMS 정보시스템분석설계
 
