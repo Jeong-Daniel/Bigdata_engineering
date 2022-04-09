@@ -1,5 +1,5 @@
 ### 빅데이터연계전공 수업을 정리
-CP 컴퓨터공학, IE 산업공학과
+####CP 컴퓨터공학, IE 산업공학과
 ---  
 ANALYSIS AND DESIGN OF INFORMATION SYSTEMS(IE) 정보시스템분석설계
 
